@@ -8,3 +8,6 @@ console.log(myFunc("Sandeep"))
 
 
 avbsakjcjnkjabhbh
+
+
+SVGAnimatedEnumeration SVGAElementdddd sandeep singh
