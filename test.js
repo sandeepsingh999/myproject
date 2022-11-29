@@ -1,13 +1,4 @@
-const myFunc = function(string){
-    return string
-}
-
-console.log(myFunc("Sandeep"))
-
-//hhhhhhhhhh
+"hello word"
 
 
-avbsakjcjnkjabhbh
-
-
-SVGAnimatedEnumeration SVGAElementdddd sandeep singh
+SVGAnimatedPreserveAspectRatio
